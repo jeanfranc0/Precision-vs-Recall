@@ -1,6 +1,6 @@
 # Compute-the-average-Precision-Recall-curves
 
-[](img/diagrama.png)
+![](img/diagrama.png)
 
 In this work, the aim is to answer [7th assignment](http://www.ic.unicamp.br/~rtorres/mo805A_19s1/07-assignment.pdf)  of the discipline [MO805A - Topics on Information Retrieval](http://www.ic.unicamp.br/~rtorres/mo805A_19s1/index.html)
 
