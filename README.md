@@ -1,5 +1,7 @@
 # Compute-the-average-Precision-Recall-curves
 
+![Recursive outpainting](img/diagrama.png)
+
 In this work, the aim is to answer [7th assignment](http://www.ic.unicamp.br/~rtorres/mo805A_19s1/07-assignment.pdf)  of the discipline [MO805A - Topics on Information Retrieval](http://www.ic.unicamp.br/~rtorres/mo805A_19s1/index.html)
 
 This is divided into three parts: 
@@ -16,7 +18,7 @@ To convert the .gif files to .pgm the following steps are considered:
 * Third, create a folder to store the images .pgm. For example: `mpeg7_output_git_to_pgm/` 
 * Fourth, Open file `Convert_git_to_pgm.ipynb` and execute each cell sequentially. The output will be the following:
 
-![Recursive outpainting](img/gif_to_pgm.png)
+![Recursive outpainting](img/gif_to_pgm.jpg)
 
 ## Feature extraction
 
@@ -57,7 +59,7 @@ example file "test.c". Move folder `mpeg7_output_git_to_pgm/` to this ubication 
 
 If you do not want to perform the previous processes, feature vectors are inside the `example` folder. Finally, run `example/Precision_x_Recall.ipynb` ,you simply need to run the cells sequentially and you will get the Precision × Recall (see figure)
 
-![Recursive outpainting](Precision_Recall.png)
+![Recursive outpainting](img/Precision_Recall.png)
 
 ## Requirements
 * numpy '1.16.2'
