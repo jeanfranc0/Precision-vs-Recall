@@ -66,3 +66,7 @@ If you do not want to perform the previous processes, feature vectors are inside
 * scipy '1.2.1'
 * matplotlib: '3.0.2'
 * PIL '1.1.7'
+
+## Video
+
+https://www.youtube.com/watch?v=W1gYEXptDiw&feature=youtu.be
